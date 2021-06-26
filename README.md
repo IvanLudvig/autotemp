@@ -1,5 +1,5 @@
 # autotemp
-A script to delete files older than 1 day in a folder
+a script to delete files older than 1 day in a folder
 
 # setup
 1. Download the script
